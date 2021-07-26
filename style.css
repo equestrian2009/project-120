@@ -1,0 +1,55 @@
+  body{
+    text-align: center;
+
+  }
+  .heading{
+    color:hotpink ;
+    font-family: 'Courier New', Courier, monospace;
+    text-align:center ;
+  }
+  .objectImage{
+    box-shadow: 5px 5px 5px grey;
+  }
+  .output{
+    margin-right: 10px;
+    width: 350px ;
+
+  }
+  .mobilenet_button{
+    color:hotpink;
+    background-color: white;
+    box-shadow:5px 5px 5px grey;
+    
+  }
+  .googleLensImage{
+    height: 150px;
+    width: 150px;
+    margin: 15px;
+    box-shadow:5px 5px 5px grey ;
+  }
+  .result{
+    box-shadow: 5px 5px 5px grey ;
+    background: pink;
+    border-radius: 20px;
+    margin-top: 30px;
+    padding: 20px;
+    border: 2px solid gray;
+
+  }
+  .bob3{
+    text-align: center;
+    color: white;
+  }
+  .bob3{
+    background: hotpink;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 50px;
+    padding: 30px;
+   border: 20px;
+
+  }
+  ol h5{
+    background: white;
+    padding: 13px;
+
+  }
